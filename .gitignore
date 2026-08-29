@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated embeddings / arrays
+*.npz
+*.npy
+
+# Raw datasets
+data/
+train/
+test/
+
+# OS files
+.DS_Store
+Thumbs.db
