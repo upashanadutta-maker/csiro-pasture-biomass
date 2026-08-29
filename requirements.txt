@@ -1,0 +1,9 @@
+
+torch==2.10.0
+torchvision==0.25.0
+timm==1.0.26
+scikit-learn==1.6.1
+numpy==2.0.2
+joblib==1.5.3
+Pillow==11.3.0
+pytest==8.4.2
